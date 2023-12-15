@@ -19,7 +19,7 @@ import java.util.Scanner;
  * Name 1:Lucas 
  * Number 1:2020301
  * 
- * Name 2: Sam
+ * Name 2: 
  * Number 2:
  * 
  * Name 3:
